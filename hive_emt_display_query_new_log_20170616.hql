@@ -1,3 +1,6 @@
+#################### Craeted By: Suhas K
+#################### Version :0.1
+
 create database if not exists cmrmsft;
 DROP TABLE IF EXISTS cmrmsft.emt_display_rawinput;
 CREATE EXTERNAL TABLE cmrmsft.emt_display_rawinput
